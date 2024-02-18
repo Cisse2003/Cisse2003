@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a computer science student passionate about solving complex problems and creating innovative solutions to meet current and future technological challenges. 👋
 
 <!--
 **Cisse2003/Cisse2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
