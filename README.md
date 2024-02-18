@@ -1,11 +1,12 @@
        Hi, I am a computer science student passionate about solving complex problems 
        and creating innovative solutions. 👋
-
-### MY PROJECTS : 🏆
 _________________________________________________________________________________________________________________________
 I am a student at the University of Science and Technology in France, specializing in computer science.
-Some of my projects :
-video-game-cpp
+
+### 📫 MY CONTACTS :💬
+_________________________________________________________________________________________________________________________
+📧 Mail : papa-el-hadji-g.cisse2@etu.univ-lorraine.fr
+📷 Instagram : papecisse_221
 
 <!--
 **Cisse2003/Cisse2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
