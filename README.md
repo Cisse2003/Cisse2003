@@ -3,7 +3,7 @@
 _________________________________________________________________________________________________________________________
 I am a student at the University of Science and Technology in France, specializing in computer science.
 
-# C - C++ - Python - Java - JS - HTML - CSS - SQL ## (PostgreSQL)
+# C - C++ - Python - Java - JS - HTML - CSS - SQL(PostgreSQL)
 
 ### 📫 MY CONTACTS :💬
 _________________________________________________________________________________________________________________________
